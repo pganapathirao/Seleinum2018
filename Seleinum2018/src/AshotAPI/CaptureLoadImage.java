@@ -36,7 +36,7 @@ public class CaptureLoadImage {
 	   
 	   else
 	   {
-		   System.out.println("Image file captured");
+		   System.out.println("Image file is captured");
 	   }
 
 	}
